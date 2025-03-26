@@ -1,0 +1,54 @@
+[
+    {
+      "texto": "¿Cuál es la capital de Francia?",
+      "opciones": ["Madrid", "París", "Londres"],
+      "respuestaCorrecta": "París"
+    },
+    {
+      "texto": "¿Cuánto es 2 + 2?",
+      "opciones": ["3", "4", "5"],
+      "respuestaCorrecta": "4"
+    },
+    {
+      "texto": "¿De qué color es el cielo en un día despejado?",
+      "opciones": ["Rojo", "Azul", "Verde"],
+      "respuestaCorrecta": "Azul"
+    },
+    {
+      "texto": "¿Cuántas patas tiene un perro?",
+      "opciones": ["2", "4", "6"],
+      "respuestaCorrecta": "4"
+    },
+    {
+      "texto": "¿Cuál es el animal que dice 'miau'?",
+      "opciones": ["Perro", "Gato", "Vaca"],
+      "respuestaCorrecta": "Gato"
+    },
+    {
+      "texto": "¿Cuántos días tiene una semana?",
+      "opciones": ["5", "6", "7"],
+      "respuestaCorrecta": "7"
+    },
+    {
+      "texto": "¿Cuál es el planeta más cercano al Sol?",
+      "opciones": ["Venus", "Marte", "Mercurio"],
+      "respuestaCorrecta": "Mercurio"
+    },
+    {
+      "texto": "¿Qué líquido es esencial para la vida?",
+      "opciones": ["Agua", "Aceite", "Leche"],
+      "respuestaCorrecta": "Agua"
+    },
+    {
+      "texto": "¿Cuánto es 10 dividido entre 2?",
+      "opciones": ["2", "5", "10"],
+      "respuestaCorrecta": "5"
+    },
+    {
+      "texto": "¿Cuál es la estación más fría del año?",
+      "opciones": ["Verano", "Invierno", "Primavera"],
+      "respuestaCorrecta": "Invierno"
+    }
+  ]
+  
+  
